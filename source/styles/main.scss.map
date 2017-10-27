@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["main.scss"],"sourcesContent":["h1 {\r\n\tcolor: red;\r\n\tdisplay: flex;\r\n\tflex-basis: auto;\r\n\tbackground-image: radial-gradient(circle closest-side, yellow, #f06d06 );\r\n\tbox-shadow: 1px 1px 3px 3px #ccc;\r\n}\r\nh2{\r\n\tcolor: aqua;\r\n}"],"file":"main.scss"}
